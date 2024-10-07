@@ -22,7 +22,7 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTI5MjUxNDYzMjI3MDg3MjU3Nw.GIDGXf.zc1_Ps0eYSxwz0FoOsSAF_rML6a0HQVe35EfXo",
   ownerID: ["1004206704994566164", ""], 
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
@@ -42,7 +42,7 @@ module.exports = {
     {
         name: "Node #1",
         host: "lava-all.ajieblogs.eu.org",
-        port: 443,
+        port: 80,
         password: "https://dsc.gg/ajidevserver",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
